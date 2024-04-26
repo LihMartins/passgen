@@ -4,6 +4,8 @@
 
 This project is a Password Generator web application. It’s designed to provide users with a secure, random password at the click of a button. The objective of this application is to make it easy for users to generate strong, secure passwords that can help protect their online accounts from unauthorised access.
 
+- [Check the Live Version Here](https://passgen-fb37ac1f0fdc.herokuapp.com/)
+
 ## Target Audience
 
 The target audience for this application is anyone who uses the internet and needs to create secure passwords for their online accounts. This includes, but is not limited to, individuals who manage multiple online accounts, IT professionals, and organisations that prioritise online security.
@@ -174,6 +176,15 @@ This section outlines the steps I took to deploy this project from my VSCode edi
 
 **Number Less or Equal 25**
 ![Number Less or Equal 25](./images/lessequal25.PNG)
+
+**Mobile View**
+![Mobile View](./images/mobileview.PNG)
+
+**Tablet View**
+![Tablet View](./images/tablet.PNG)
+
+**Desktop View**
+![Desktop View](./images/desktopview.PNG)
 
 ## HTML and CSS Validators
 
