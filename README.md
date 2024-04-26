@@ -14,7 +14,7 @@ The target audience for this application is anyone who uses the internet and nee
 
 In today’s digital age, online security is more important than ever. One of the key aspects of online security is using strong, unique passwords for each of your online accounts. However, creating and remembering such passwords can be challenging.
 
-That’s where this Password Generator comes in. It takes the hassle out of creating secure passwords. With just a click, you can generate a strong, random password. You can even customise the length of the password according to your needs, from 8 to 25 characters.
+That’s where this Password Generator comes in. It takes the hassle out of creating secure passwords. With just a click, you can generate a strong, random password. You can even customise the length of the password according to your needs, from 4 to 25 characters.
 
 By using this Password Generator, you can enhance your online security with minimal effort. It’s a simple tool, but it can make a big difference in protecting your online presence.
 
