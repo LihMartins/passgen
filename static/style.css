@@ -1,3 +1,4 @@
+/* Container Box Layout */
 .container {
     display: flex;
     flex-direction: column;
@@ -11,6 +12,7 @@
     background-color: #afc7c8;
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
 }
+/* Header Style */
 h1 {
     color: rgb(213 8 8);
 }
@@ -19,6 +21,7 @@ p {
     color: rgb(160 28 28);
 }
 
+/* Form Style */
 form {
     margin: auto;
     width: 100%;
@@ -29,10 +32,11 @@ form {
 
 input[type=number] {
     width: 45%;
-    
+
 }
 
-input[type=submit] {   
+/* Generate Button Style */
+input[type=submit] {
     width: 20%;
     margin-top: 20px;
     margin-left: 160px;
@@ -51,8 +55,9 @@ p {
     color: #d30303;
 }
 
+/* Password Result Style */
 .password {
     margin: auto;
-    font-size: 14px;
+    font-size: 18px;
     color: black;
 }

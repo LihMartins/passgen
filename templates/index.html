@@ -1,22 +1,31 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta charset="utf-8" />
 
     <title>Password Generator</title>
     <link rel="stylesheet" type="text/css" href="./static/style.css">
 </head>
+
 <body>
     <div class="container">
-    <h1>Password Generator</h1>
+        <!--Project Title-->
+        <h1>Password Generator</h1>
 
-    <form method="POST">
-        <label for="length">Password Length:</label>
-        <input type="number" id="length" name="length" min="8" max="25" placeholder="Add the number of characters here" required>
-        <input type="submit" value="Generate">
-    </form>
-    <p>Your generated password: <span class="password">{{ password }}</span></p>
+        <form method="POST">
+            <!-- A form for user input, which sends a POST request on submission -->
+            <label for="length">Password Length:</label> <!-- A label for the input field -->
+            <!-- An input field of type number, with a minimum value of 4 and a maximum value of 25 -->
+            <input type="number" id="length" name="length" min="4" max="25"
+                placeholder="Add the number of characters here" required>
+            <input type="submit" value="Generate"> <br> <!-- A submit button -->
+        </form>
+        <!-- A paragraph to display the generated password. The password is rendered dynamically using Flask's template engine. -->
+        <p>Your generated password: <span class="password">{{ password }}</span></p>
+
+    </div>
 
 </body>
+
 </html>

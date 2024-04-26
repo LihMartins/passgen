@@ -1,0 +1,19 @@
+app.py:7:1: E302 expected 2 blank lines, found 1
+app.py:12:1: E302 expected 2 blank lines, found 1
+app.py:19:1: E305 expected 2 blank lines after class or function definition, found 1
+app.py:7:1: E302 expected 2 blank lines, found 1
+app.py:12:1: E302 expected 2 blank lines, found 1
+app.py:19:1: E305 expected 2 blank lines after class or function definition, found 1
+app.py:19:1: W293 blank line contains whitespace
+app.py:20:1: W293 blank line contains whitespace
+app.py:14:32: E251 unexpected spaces around keyword / parameter equals
+app.py:28:31: W291 trailing whitespace
+app.py:33:36: W291 trailing whitespace
+app.py:46:50: E251 unexpected spaces around keyword / parameter equals
+app.py:46:52: E251 unexpected spaces around keyword / parameter equals
+app.py:51:18: E251 unexpected spaces around keyword / parameter equals
+app.py:51:20: E251 unexpected spaces around keyword / parameter equals
+app.py:28:31: W291 trailing whitespace
+app.py:33:36: W291 trailing whitespace
+app.py:28:31: W291 trailing whitespace
+app.py:33:36: W291 trailing whitespace
