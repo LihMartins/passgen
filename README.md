@@ -63,7 +63,7 @@ The application has been manually tested to ensure all features work as expected
 
 **Initial `pycodestyle` Output**
 
-- View [Output](./output.txt)
+- View [Output](./txt/output.txt)
 
 ### Changes Made
 
