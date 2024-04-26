@@ -57,10 +57,11 @@ The application has been manually tested to ensure all features work as expected
 
 ### Code Validation with PEP8
 
-### File: app.py
+- **File**: app.py
 
 **Initial `pycodestyle` Output**
-View [Output](./output.txt)
+
+- View [Output](./output.txt)
 
 ### Changes Made
 
@@ -153,15 +154,25 @@ This section outlines the steps I took to deploy this project from my VSCode edi
 
 6. **Open the app**: Finally, I opened the app in a web browser with `heroku open`.
 
-[GitHub Repository](https://github.com/LihMartins/passgen)
-[Heroku Git](https://git.heroku.com/passgen.git)
+- [GitHub Repository](https://github.com/LihMartins/passgen)
+- [Heroku Git](https://git.heroku.com/passgen.git)
+- [Heroku Password Generator App](https://passgen-fb37ac1f0fdc.herokuapp.com/)
 
 ## Layout
 
+**Main Page**
 ![Main Page](./images/passwordgeneratormain.PNG)
+
+**Generating Password Result**
 ![Generating Password Result](./images/generatingcode.PNG)
+
+**Empty Field**
 ![Empty Field](./images/emptyfield.PNG)
+
+**Number Greater or Equal 4**
 ![Number Greater or Equal 4](./images/greaterequal4.PNG)
+
+**Number Less or Equal 25**
 ![Number Less or Equal 25](./images/lessequal25.PNG)
 
 ## HTML and CSS Validators
@@ -172,7 +183,7 @@ Checked through [W3C Markup Validation Service](https://validator.w3.org/)
 ![HTML Validator](./images/htmlvalidator.PNG)
 
 **CSS**
-1[CSS Validator](./images/cssvalidator.PNG)
+![CSS Validator](./images/cssvalidator.PNG)
 
 ## Credits
 
