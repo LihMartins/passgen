@@ -30,7 +30,7 @@ Remember, a strong password is your first line of defense against unauthorised a
 
 ## Requirements
 
-To run this Password Generator web application, you will need the following:
+To create this Password Generator web application, you will need the following:
 
 ## Software
 
