@@ -1,0 +1,58 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #000;
+    padding: 20px;
+    margin: 0 auto;
+    width: 500px;
+    height: 300px;
+    background-color: #afc7c8;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+h1 {
+    color: rgb(213 8 8);
+}
+
+p {
+    color: rgb(160 28 28);
+}
+
+form {
+    margin: auto;
+    width: 100%;
+    padding: 10px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+input[type=number] {
+    width: 45%;
+    
+}
+
+input[type=submit] {   
+    width: 20%;
+    margin-top: 20px;
+    margin-left: 160px;
+    background-color: #3a4997;
+    color: white;
+    font-weight: bold;
+    padding: 14px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+p {
+    margin: auto;
+    font-size: 20px;
+    font-weight: bold;
+    color: #d30303;
+}
+
+.password {
+    margin: auto;
+    font-size: 14px;
+    color: black;
+}
